@@ -4,5 +4,4 @@
 
  [![Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://bot.odar.xyz)
 
-![jfasrz](https://user-images.githubusercontent.com/33583695/52516422-eea51680-2c3b-11e9-9674-f7d54582ff26.jpg)
 
