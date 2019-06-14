@@ -1,8 +1,1 @@
-
-<p><a href="https://discord.gg/X8bjM87  "><img src="https://discordapp.com/api/guilds/532566913054801927/widget.png?style=banner2"></a></p>
-<p><a href="https://discord.gg/X8bjM87  "><img 
-# discord.js server adress offical hesaplar 🗡 
-
- [![Bot](https://img.shields.io/badge/DiscordBot-Yes-green.svg)](https://bot.odar.xyz)
-
-
+<a href="https://steamprofile.com/sig/76561198443336057/"><img src="https://badges.steamprofile.com/profile/default/steam/76561198443336057.png" alt="Steam Profile badge for NEGRONN: Get your our own Steam Signature at SteamProfile.com" title="Steam Profile badge for NEGRONN: Get your our own Steam Signature at SteamProfile.com"/></a>
